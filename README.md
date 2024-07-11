@@ -1,5 +1,7 @@
 # Machine Learning Coding Course Project
 
+![Screenshot (88)](https://github.com/xxXLokiXxx/Machine-Learning-Coding-Course-Project/assets/99037815/2124d081-f051-4cb9-918c-fee749847cde)
+
 ## Overview
 This project is part of the Machine Learning Coding Course. It includes two programming assignments focusing on various machine learning techniques and their implementation.
 
