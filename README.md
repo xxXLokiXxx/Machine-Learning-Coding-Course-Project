@@ -23,24 +23,35 @@ This project is part of the Machine Learning Coding Course. It includes two prog
    - Implement regularization techniques.
    - Compare the performance of different models.
 
-## Programming Assignment 2
+## Programming Assignment 2: Recurrent Neural Networks (RNNs)
 
 ### Objectives
-- **Explore advanced machine learning algorithms.**
-- **Implement and evaluate complex models.**
+- **Explore RNNs and understand how gradients flow through networks.**
 
 ### Tasks
-1. **Advanced Data Preprocessing**
-   - Feature engineering.
-   - Dimensionality reduction.
+1. **Implementing an RNN Layer**
+   - Build an RNN layer from scratch.
+   - Understand the architecture and backpropagation.
 
-2. **Model Implementation**
-   - Implement decision trees and random forests.
-   - Evaluate models using cross-validation.
+2. **Implementing an RNN Regression Model**
+   - Create an RNN model for regression tasks.
+   - Evaluate the model's performance.
 
-3. **Model Optimization**
-   - Hyperparameter tuning.
-   - Compare the performance of optimized models.
+3. **Dataset and Loss Function**
+   - Explore the dataset.
+   - Define an appropriate loss function.
+
+4. **Understanding the Dataset**
+   - Analyze the dataset without implementing code.
+
+5. **RNN for Last Name Classification**
+   - Train an RNN for classifying last names.
+   - Implement the loss function.
+   - Preprocess the dataset.
+
+6. **Training the Model**
+   - Train the RNN model.
+   - Evaluate its performance.
 
 ## How to Run
 1. **Clone the repository:**
@@ -51,7 +62,7 @@ This project is part of the Machine Learning Coding Course. It includes two prog
    ```bash
    cd Machine-Learning-Coding-Course-Project
 
-4. **Run the Jupyter notebooks:**
+3. **Run the Jupyter notebooks:**
    ```bash
    jupyter notebook programming_assignment_1.ipynb
    jupyter notebook COMP3314_PA2_3035930228.ipynb
