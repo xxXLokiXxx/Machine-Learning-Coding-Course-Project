@@ -48,9 +48,11 @@ This project is part of the Machine Learning Coding Course. It includes two prog
    git clone https://github.com/xxXLokiXxx/Machine-Learning-Coding-Course-Project.git
 
 2. **Navigate to the project directory:**
+   ```bash
    cd Machine-Learning-Coding-Course-Project
 
-3. **Run the Jupyter notebooks:**
+4. **Run the Jupyter notebooks:**
+   ```bash
    jupyter notebook programming_assignment_1.ipynb
    jupyter notebook COMP3314_PA2_3035930228.ipynb
 
