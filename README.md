@@ -46,3 +46,24 @@ This project is part of the Machine Learning Coding Course. It includes two prog
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/xxXLokiXxx/Machine-Learning-Coding-Course-Project.git
+
+2. **Navigate to the project directory:**
+   cd Machine-Learning-Coding-Course-Project
+
+3. **Run the Jupyter notebooks:**
+   jupyter notebook programming_assignment_1.ipynb
+   jupyter notebook COMP3314_PA2_3035930228.ipynb
+
+## Dependencies
+   - Python 3.x
+   - Jupyter Notebook
+   - NumPy
+   - Pandas
+   - Scikit-learn
+
+## Contributor
+xxXLokiXxx
+
+## License
+This project is licensed under the MIT License.
+
